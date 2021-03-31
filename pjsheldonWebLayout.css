@@ -9,6 +9,6 @@ body {
 }
 
 /* check layout */
-.check {
+#check h1 {
 	text-align: center;
 }

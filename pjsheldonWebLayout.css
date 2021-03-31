@@ -8,4 +8,7 @@ body {
 	margin: 0 auto;
 }
 
-/* header layout */
+/* check layout */
+#check {
+	text-align: center;
+}
